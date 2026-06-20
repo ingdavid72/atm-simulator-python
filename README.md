@@ -19,7 +19,10 @@ Este proyecto permite realizar operaciones bancarias básicas mediante un menú 
 ## Cómo ejecutar el proyecto
 
 1. Clonar el repositorio:
-
+2 Entrar a la carpeta del proyecto:
+cd atm-simulator-python
+3 Ejecutar el programa:
+python main.py
 ```bash
 git clone URL_DEL_REPOSITORIO
  
