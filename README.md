@@ -3,17 +3,17 @@
 Proyecto desarrollado para la materia de **Fundamentos de Programación**.
 
 ## 🚀 Funcionalidades
-- **Consulta de saldo:** Muestra el dinero disponible en tiempo real con formato de moneda.
-- **Depósitos y Retiros:** Permite ingresar y retirar fondos con validación estricta de montos.
-- **Historial de transacciones:** Registro dinámico de todos los movimientos realizados durante la sesión.
-- **Control de excepciones:** Uso de bloques `try/except` para garantizar que el programa no colapse ante entradas inválidas del usuario.
+- Consulta de saldo en tiempo real.
+- Depósito y retiro de dinero con validación de montos.
+- Historial de transacciones durante la sesión.
+- Manejo de excepciones (`try/except`) para evitar errores de ejecución.
 
 ## 🛠️ Tecnologías utilizadas
-- **Lenguaje:** Python 3.x
-- **Lógica de control:** Ciclos `while`, estructuras condicionales (`if/elif/else`), funciones y colecciones (`list`).
+- Python 3.x
 
 ## 💻 Cómo ejecutar el programa
-
-1. **Clonar el repositorio:**
+1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/ingdavid72/cajero-automatico-python.git](https://github.com/ingdavid72/cajero-automatico-python.git)
+   git clone [https://github.com/tu-usuario/cajero-automatico-python.git](https://github.com/tu-usuario/cajero-automatico-python.git)
+   Ejecuta el archivo principal en la terminal con este comando python main.py
+   
