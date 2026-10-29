@@ -14,7 +14,9 @@ Este proyecto aborda la necesidad de simular un sistema bancario automatizado b�
 2. **Lógica de software:** Previene fallos en el sistema mediante el control de operaciones no válidas (fondos insuficientes o montos negativos) y el manejo de errores ante entradas incorrectas del usuario.
 
 ## 🛠️ Tecnologías utilizadas
-- Python 3.x
+- Python 3.
+
+
 
 ## 💻 Cómo ejecutar el programa
 1. Clona este repositorio:
